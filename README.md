@@ -1,4 +1,10 @@
 # c-python-pip
 Repositorio de curso pip
 
-# Steps
+# Game project
+
+'''sh
+cd game
+pytho3 main.py
+'''
+
